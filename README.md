@@ -23,7 +23,7 @@ improve their written and oral communication skills
 
 ## Clubs
 - [Open Source Society](https://www.facebook.com/ntuoss) - Student community promoting the value and importance of Open Source in NTU.
-- [Offsec](https://www.facebook.com/ntu.offsec/) - Group of security enthusiasts but are leaning towards offensive security.
+- [CSEC Offensive Cyber Security Club](https://www.facebook.com/ntu.offsec/) - Group of security enthusiasts but are leaning towards offensive security.
 - [Entrepreneurship Society (NTUES)](https://www.facebook.com/entresoc.ntu/) - Promote and develop the enterprising mindset among the student community.
 - [Toastmasters](https://www.facebook.com/NTUtoastmasters/) - Provide a mutually supportive and positive learning environment in which every member has the opportunity to develop communication and leadership skills; which in turn foster self-confidence and personal growth.
 - [Uni-Y](https://www.facebook.com/uniyntu/) - Develop and empower youth to be servant leaders who will impact our local and international communities.
