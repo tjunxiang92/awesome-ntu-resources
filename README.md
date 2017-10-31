@@ -1,5 +1,6 @@
 # Awesome NTU Resources
-All a student needs to know
+All a student needs to know.  
+If there is a resource you would like me to add, click [here](https://junxiang1.typeform.com/to/zIQpGn).
 
 ## School Resources
 - [CareerAxis](https://careeraxis.ntu.edu.sg/) - Events catered to help with career planning
@@ -21,11 +22,12 @@ improve their written and oral communication skills
 - [NTU Confessions](https://www.facebook.com/NTUConfess/) - One-stop Facebook page for you to confess anything anonymously.
 
 ## Clubs
-- [NTU Open Source Society](https://www.facebook.com/ntuoss) - Student community promoting the value and importance of Open Source in NTU.
-- [NTU Offsec](https://www.facebook.com/ntu.offsec/) - Group of security enthusiasts but are leaning towards offensive security.
-- [NTU Entrepreneurship Society (NTUES)](https://www.facebook.com/entresoc.ntu/) - Promote and develop the enterprising mindset among the student community.
-- [NTU Toastmasters](https://www.facebook.com/NTUtoastmasters/) - Provide a mutually supportive and positive learning environment in which every member has the opportunity to develop communication and leadership skills; which in turn foster self-confidence and personal growth.
-- [NTU Uni-Y](https://www.facebook.com/uniyntu/) - Develop and empower youth to be servant leaders who will impact our local and international communities.
-- [NTU Investment Interactive Club](https://www.facebook.com/NTU.IIC) - focuses on improving financial literacy among students through investment education and financial events.
-- [NTU Cultural Activities Club](https://www.facebook.com/ntucac/) - Aim of fostering greater cultural awareness and interests among the NTU student population.
-- [NTU Buddhist Society](https://www.facebook.com/NTUBS/) - Buddhist society which provides various Dharma learning experience suitable for NTU community.
+- [Open Source Society](https://www.facebook.com/ntuoss) - Student community promoting the value and importance of Open Source in NTU.
+- [Offsec](https://www.facebook.com/ntu.offsec/) - Group of security enthusiasts but are leaning towards offensive security.
+- [Entrepreneurship Society (NTUES)](https://www.facebook.com/entresoc.ntu/) - Promote and develop the enterprising mindset among the student community.
+- [Toastmasters](https://www.facebook.com/NTUtoastmasters/) - Provide a mutually supportive and positive learning environment in which every member has the opportunity to develop communication and leadership skills; which in turn foster self-confidence and personal growth.
+- [Uni-Y](https://www.facebook.com/uniyntu/) - Develop and empower youth to be servant leaders who will impact our local and international communities.
+- [Investment Interactive Club](https://www.facebook.com/NTU.IIC) - focuses on improving financial literacy among students through investment education and financial events.
+- [Cultural Activities Club](https://www.facebook.com/ntucac/) - Aim of fostering greater cultural awareness and interests among the NTU student population.
+- [Buddhist Society](https://www.facebook.com/NTUBS/) - Buddhist society which provides various Dharma learning experience suitable for NTU community.
+- [Rotaract Club](https://www.facebook.com/RotaractClubofNTU/) - Part of a global effort to bring peace and international understanding to the world
